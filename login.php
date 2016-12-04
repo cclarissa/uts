@@ -35,5 +35,6 @@ if(! isset($_POST["username"]) || ! isset($_POST["password"])){
 			}
 		}
 	?> 
+<a href="login.html"><button>Back</button></a>
 </body>
 </html>
